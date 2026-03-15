@@ -1,1 +1,1 @@
-apt update && apt install vi vim neovim ripgrep fd-find tree
+apt update && apt install vim neovim ripgrep fd-find tree
